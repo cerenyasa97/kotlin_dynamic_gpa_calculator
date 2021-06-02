@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note Calculation</string>
+    <string name="add_label">ADD</string>
+    <string name="lecture_name_hint">Lecture name</string>
+    <string name="delete_label">Delete</string>
+    <string name="calculate">Calculate</string>
+</resources>
