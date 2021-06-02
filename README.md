@@ -22,7 +22,7 @@ What things you need to install the software and how to install them
 After making sure that the Android Studio and Flutter installations are complete, download the project and open it with Android Studio and start using it.
 
 ### Getting Help
-Please report bugs (actually broken code, not usage questions) to the cerenyasa97/task_management_app_with_Flutter GitHub issue tracker, prefixing the issue name with "task_manager_bug".
+Please report bugs (actually broken code, not usage questions) to the cerenyasa97/kotlin_dynamic_gpa_calculator GitHub issue tracker, prefixing the issue name with "kotlin_dynamic_gpa_calculator_bug".
 
 ### Maintainer
 * Ceren Yaşa 
